@@ -2,7 +2,7 @@
 Django using python 3.8 &amp; pip3 &amp; Virtualenv
 
 
-![](Django using python 3.8 &amp; pip3 &amp; Virtualenhttps://github.com/QueenieCplusplus/Backend_Script3_WebSite/raw/main/fake_site.png)
+![](https://github.com/QueenieCplusplus/Backend_Script3_WebSite/raw/main/fake_site.png)
 
 
 * Virtualenv
