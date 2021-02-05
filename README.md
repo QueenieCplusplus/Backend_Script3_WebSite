@@ -2,6 +2,9 @@
 Django using python 3.8 &amp; pip3 &amp; Virtualenv
 
 
+![](Django using python 3.8 &amp; pip3 &amp; Virtualenhttps://github.com/QueenieCplusplus/Backend_Script3_WebSite/raw/main/fake_site.png)
+
+
 * Virtualenv
 
 備註 爬蟲僅需要 python2 然而網站建議用 python 3 ，前者為全域，後者建議用虛擬機。
