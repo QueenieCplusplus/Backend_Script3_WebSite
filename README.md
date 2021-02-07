@@ -14,7 +14,7 @@ Django using python 3.8 &amp; pip3 &amp; Virtualenv
 
       $ which python3 = path
 
-      $ virtualen -p  path  proj_name
+      $ virtualenv -p  path  proj_name
 
       KatesAndroiddeMacBook-Pro:~ katesandroid$ source proj_name/bin/activate
       (proj_name) KatesAndroiddeMacBook-Pro:~ katesandroid$ 
