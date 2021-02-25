@@ -9,6 +9,12 @@ Django using python 3.8 &amp; pip3 &amp; Virtualenv
 
 備註 爬蟲僅需要 python2 然而網站建議用 python 3 ，前者為全域，後者建議用虛擬機。
 
+* Prework
+
+      上官網下載 Python3 for Mac
+     
+      在終端機下 whereis python3 找到 path
+
 
 * Env Path
 
